@@ -20,35 +20,35 @@ Link Encurtado - https://bit.ly/4nF7iHu
 
 ### Funcionais (RF)
 
-- RF01 - Login e Cadastro de clientes e prestadores de serviço.
+- RF001 - Login e Cadastro de clientes e prestadores de serviço.
 
-- RF02 - Dashboard inicial com categorias de serviços, destaques e cupons.
+- RF002 - Dashboard inicial com categorias de serviços, destaques e cupons.
 
-- RF03 - Perfis de prestadores de serviço com avaliações, histórico e agenda.
+- RF003 - Perfis de prestadores de serviço com avaliações, histórico e agenda.
 
-- RF04 - Busca e filtragem de serviços por categoria, preço e avaliações.
+- RF004 - Busca e filtragem de serviços por categoria, preço e avaliações.
 
-- RF05 - Seleção e contratação de serviços com resumo do pedido.
+- RF005 - Seleção e contratação de serviços com resumo do pedido.
 
-- RF06 - Pagamento online integrado para finalizar pedidos.
+- RF006 - Pagamento online integrado para finalizar pedidos.
 
-- RF07 - Cupons e promoções para descontos.
+- RF007 - Cupons e promoções para descontos.
 
-- RF08 - Protótipo navegável: links entre telas, como Login → Dashboard → Perfil → Pagamento.
+- RF008 - Protótipo navegável: links entre telas, como Login → Dashboard → Perfil → Pagamento.
 
 ### Não Funcionais (RNF)
 
-- RNF01 - Usabilidade: interface intuitiva e fácil de usar.
+- RNF001 - Usabilidade: interface intuitiva e fácil de usar.
 
-- RNF02 - Responsividade: suporte a diferentes tamanhos de tela.
+- RNF002 - Responsividade: suporte a diferentes tamanhos de tela.
 
-- RNF03 - Acessibilidade: cores e contrastes coerentes, botões legíveis.
+- RNF003 - Acessibilidade: cores e contrastes coerentes, botões legíveis.
 
-- RNF04 - Design coerente: identidade visual unificada e agradável.
+- RNF004 - Design coerente: identidade visual unificada e agradável.
 
-- RNF05 - Arquitetura da Informação
+- RNF005 - Arquitetura da Informação
 
-- RNF06 - O fluxo de navegação do sistema inclui as seguintes telas principais:
+- RNF006 - O fluxo de navegação do sistema inclui as seguintes telas principais:
 
   - Tela Inicial / Home
   - Login / Cadastro
